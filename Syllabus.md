@@ -30,7 +30,11 @@ _~Gui Bonsiepe. Design and Democracy._
 
 
 ### Course Description
-In this course students will design user experiences (UX) for while considering and evaluating what types of digital products can and should be put out into the world as tools for the day-to-day, as speculative art projects, or as forms of resistance to existing sociotechnical systems that move us today. 
+This practice-based course is aimed at engaging new media art, design, and technology students in discussions and field work in human-centered user experience design, with a focus on mutual aid and civic participation. Students will be encouraged to interview and participate in community-based organizations (CBOs) (for example, Bed Stuy Strong Mutual Aid, Sunnyside Mutual Aid, Defund NYC, Welcome to Chinatown, Housing Justice for All, and others) in order to research and design tools that can support existing efforts.
+
+Students can also choose a project of their own for any "client". For example, students may choose to redesign an existing website for an organization of their choice.
+
+The goal is to encourage research-centered, participatory design and steer students away from the technosoutionist approach to problem-solving that Big Tech has popularized. We hope to unlearn old ways and collectively come up with new questions and new prototypes. We will be relying on principles of the Design Justice Network while keeping our practice open to change.
 
 ### Objectives
 
@@ -62,7 +66,7 @@ In this course students will design user experiences (UX) for while considering 
 
 
 ### Tools we will use:
-[Figma](https://www.figma.com), a blog (like Tumblr or a blog of your choice), [Miro](https://miro.com), are.na, pencils, paper.
+[Figma](https://www.figma.com), a blog (like Tumblr or a blog of your choice), are.na, pencils, paper.
 
 
 ### Resources
@@ -76,11 +80,9 @@ Lab hours are Monday through Thursday, 9am to 9pm and Friday 9am to 6pm. Weekend
 [phttps://ccnydoc.blogspot.com](https://ccnydoc.blogspot.com)
 
 ### Projects:
-Students will design an app that will fit in one of the following categories: 
-1. App as civic engagement tool.
-2. Speculative app as design/art project to address potential future societal needs.
-3. Critical app design as design/art project that critiques existing social and cultural systems. 
-4. Your choice, as long as it follows Human-Centered design guidelines.
+Students will design a user experience (digital, digital and print, serivice, other?) that can fit in one of the following categories: 
+1. Civic engagement tool/platform/service
+2. Your choice, as long as it follows Human-Centered design guidelines.
 
 ### Readings/Videos/Materials we will use in class and for assignments:
 * [How to think differently about doing good as a creative person](https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/)
