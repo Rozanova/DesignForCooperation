@@ -8,9 +8,7 @@
 
 ___
 
-
-_&quot;You can't use up creativity. The more you use, the more you have.&quot;_
-
+_&quot;The role of the artist is to make the revolution irresistible.&quot;_
 _~Toni Cade Bambara
 
 _&quot;The contemporary political moment is defined by Emergency… More and more ordinary people are being called to respond in their communities...At its best, mutual aid actually produces new ways of living where people get to create systems of care and generosity that address and foster well-being.&quot;_
