@@ -1091,48 +1091,48 @@ This list is a compilation of NYC organizations which students can research for 
 
 Name
 Focus Area
-BedStuy Strong (Brooklyn)
-Mutual aid
+
+
+BedStuy Strong (Brooklyn) - Mutual aid
+
 Democratic Socialists of America
 
+Defund NYPD (DSA working group) - POC abolition
 
-Defund NYPD (DSA working group)
-POC abolition
-Act Up 
-LGBTQI+
-Housing Justice for All
-housing justice
-Make The Road
-Immigration justice
+Act Up  - LGBTQI+
+
+Housing Justice for All - housing justice
+
+Make The Road - Immigration justice
 DRUM
-(Desis Rising Up + Moving)
-Immigration justice
-Queens Mutual Aid 
-Mutual Aid
-People’s Forum
-political education, bookstore
-Mayday Space
-Organizing center and events space for progressive grassroots organizations
-Critical Resistance NYC
-PIC abolition
-Sunnyside Mutual Aid (Queens)
-Mutual aid
-Communist Party USA (LOL)
-Political education
-Public Assistants 
-Public Assistants is a mutual aid network, design lab, and resistance hub. 
-Welcome to Chinatown (NYC)
-Mutual Aid 
-Nice to Workers
-Mutual Aid
-Community Fridge 
-food justice, mutual aid
-Decolonize This Place
-indigineous sovereignty 
-Survived & Punished NYC
-PIC abolition
-Parole Prep
-Direct support for incarcerated people
+
+(Desis Rising Up + Moving) -Immigration justice
+
+Queens Mutual Aid - Mutual Aid
+
+People’s Forum - political education, bookstore
+
+Mayday Space - Organizing center and events space for progressive grassroots organizations
+
+Critical Resistance NYC - POC abolition
+
+Sunnyside Mutual Aid (Queens) - Mutual aid
+
+Communist Party USA (LOL) - Political education
+
+Public Assistants  - Public Assistants is a mutual aid network, design lab, and resistance hub. 
+
+Welcome to Chinatown (NYC) - Mutual Aid 
+
+Nice to Workers - Mutual Aid
+
+Community Fridge  - food justice, mutual aid
+
+Decolonize This Place - indigineous sovereignty 
+
+Survived & Punished NYC - POC abolition
+
+Parole Prep - Direct support for incarcerated people
 
 
 
